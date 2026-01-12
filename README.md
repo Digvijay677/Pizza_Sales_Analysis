@@ -121,4 +121,3 @@ By combining SQL analysis with Power BI visualization, the project enables bette
 
 ---
 
-📌 *Developed as part of a Data Analytics portfolio project.*
