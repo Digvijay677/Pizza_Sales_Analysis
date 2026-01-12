@@ -1,5 +1,5 @@
 
-# 🍕 Pizza Sales Data Analytics Project
+# 🍕 Pizza Sales Data Analysis
 
 ## 📌 Table of Contents
 - [Overview](#overview)
